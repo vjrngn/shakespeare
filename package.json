@@ -1,0 +1,25 @@
+{
+  "name": "shakespeare",
+  "version": "0.0.1",
+  "description": "A distributed messaging system, in TypeScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vjrngn/shakespeare.git"
+  },
+  "keywords": [
+    "kafka",
+    "distributed",
+    "messaging",
+    "typescript"
+  ],
+  "author": "Vijay Rangan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vjrngn/shakespeare/issues"
+  },
+  "homepage": "https://github.com/vjrngn/shakespeare#readme"
+}
